@@ -1,7 +1,8 @@
 # Data
-*.txt
-*.csv
+data/*.txt
+data/*.csv
 MachineLearningRating_v3.txt
+!requirements.txt
 
 # Python
 __pycache__/
@@ -13,4 +14,6 @@ __pycache__/
 env/
 venv/
 .ipynb_checkpoints/
-data/
+
+
+dvc_remote/files/md5/f6/b7009b68ae21372b7deca9307fbb23
